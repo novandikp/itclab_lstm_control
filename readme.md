@@ -23,6 +23,14 @@ https://drive.google.com/file/d/1lwrPwDbtuim6vQ0s80sFZx_XqAUFwq6A/view?usp=shari
 
 The goal of this project is to compare the performance of three different method for temperature control: PID, PID deep learning, and LSTM-based models for ITCLab Kit.
 
+
+
+### Architecture
+The architecture of control system using LSTM-based models for ITCLab Kit is shown in the figure below.
+![Architecture](images/architecture.png)
+
+
+
 ## Required program files:
 The files needed to run the iTCLab Kit test using LSTM Based Controller, namely:
 
