@@ -8,10 +8,14 @@ This repository contains the implementation of the PID, PID deep learning, and L
 3. Hanif Al Fathoni				(20081010001)
 4. Novandi Kevin Pratama		(20081010005)
 
+For more information, please refer to the report in this repository :
+
+https://drive.google.com/file/d/1lwrPwDbtuim6vQ0s80sFZx_XqAUFwq6A/view?usp=sharing
+
 ## Contents
 
 1. Introduction
-2. Required program files:
+2. Required program files
 3. Results
 
 
